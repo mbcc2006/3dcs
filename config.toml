@@ -1,0 +1,12 @@
+baseURL = "https://3dcs.cn/"
+languageCode = "zh-cn"
+title = "3D 城市"
+theme = "hugo-theme-air"
+[params]
+    author = "世界第一好吃"
+    avatar = "avatar.jpg"
+    favicon = "favicon.ico"
+    description = """"""
+    publicationYear = "2019"
+    logo = "/images/user.webp"
+    cover = "/images/user.webp"
